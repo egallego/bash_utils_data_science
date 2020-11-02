@@ -26,7 +26,7 @@ function create_env() {
 ```
 Create a virtual virtualenv and set it up to be used with jupyter notebook.
 
-[jupyter_packages.sh](scripts/jupyter_packages.sh) can be found in the scripts folder in this repo.
+[jupyter_packages.sh](jupyter_packages.sh) can be found in the scripts folder in this repo.
 ```bash
 function create_jupyter_env() {
 	create_env $1;
@@ -44,7 +44,7 @@ function create_env_python2() {
 ```
 Create a virtual virtualenv and set it up to be used with jupyter notebook.
 
-[jupyter_packages_p2.sh](scripts/jupyter_packages_p2.sh) can be found in the scripts folder in this repo.
+[jupyter_packages_p2.sh](jupyter_packages_p2.sh) can be found in the scripts folder in this repo.
 ```bash
 function create_jupyter_env_python2() {
 	create_env_python2 $1;
