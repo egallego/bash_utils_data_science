@@ -9,7 +9,7 @@ find . -type f | wc -l
 ```bash
 find . -type f | wc -l && date +%H:%M:%S
 ```
-### List folders and size of it of a directory 
+### List folders name and size of a directory 
 ```bash
 for i in `ls`
 do

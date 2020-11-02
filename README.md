@@ -1,5 +1,5 @@
-# Bash Commands for Data Science
-This repository contain a list of commands/functions written as bash to make easier the data science daily work.
+# Bash utils for Data Science
+This repository contain a list of commands/functions which aim to make easier the data science daily work.
 
 For an easy reading they have been sorted in different files. Find the list of files below:
 
